@@ -1,0 +1,12 @@
+1 ¿Con qué elementos cuenta mi página web?
+    a. Header:
+        Contiene solo el logo, ya que esta es una página simple con una sola sección.
+    b. Sección hero:
+        Una sección hero consiste en una imagen de gran tamaño que trata de captar la atención de los usuarios.
+        En este caso, como imagen de fondo tenemos un color degradado sobel el cual hay un Título del sitio y su descripción simple,
+        debajo tenemos un botón de llamada a la acción para que el usuario identifique de manera rápida el botón de inscripciones,
+        el cual cumple con la función principal de este sitio web. 
+        Por último, tenemos una imagen isométrica  que intenta capturar la atención del usuario y reflejar una
+        idea de vanguardia y tecnología.
+
+
